@@ -1,5 +1,9 @@
 package main
 
+import (
+	"github.com/VerasThiago/goStudy/hello"
+)
+
 func main() {
-	println(Hello())
+	println(hello.Hello())
 }
